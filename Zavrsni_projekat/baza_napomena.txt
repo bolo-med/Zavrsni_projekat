@@ -1,0 +1,3 @@
+Potrebno je prvo kreirati bazu podataka (create schema), naziva - Kucna_biblioteka, pa kopirati redove iz .sql fajla i izvrsiti ih.
+
+
