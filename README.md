@@ -1,4 +1,4 @@
-## Prezebtacija projekta: https://bolo-med.github.io/Zavrsni_projekat/
+## Prezentacija projekta: https://bolo-med.github.io/Zavrsni_projekat/
 
 # Kućna biblioteka
 
